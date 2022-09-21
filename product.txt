@@ -1,0 +1,10 @@
+{"id": 1, "desc": "apple", "UnitPrice": 10, "QuantityInStock": 20}
+{"id": 2, "desc": "orange", "UnitPrice": 12, "QuantityInStock": 32}
+{"id": 3, "desc": "water", "UnitPrice": 5, "QuantityInStock": 40}
+{"id": 4, "desc": "wine", "UnitPrice": 230, "QuantityInStock": 46}
+{"id": 5, "desc": "gameboy", "UnitPrice": 540, "QuantityInStock": 60}
+{"id": 6, "desc": "ps5", "UnitPrice": 3980, "QuantityInStock": 10}
+{"id": 7, "desc": "ps5 controller", "UnitPrice": 590, "QuantityInStock": 59}
+{"id": 8, "desc": "banana", "UnitPrice": 13, "QuantityInStock": 12}
+{"id": 9, "desc": "iphone 5s", "UnitPrice": 3500, "QuantityInStock": 33}
+{"id": 10, "desc": "suger", "UnitPrice": 5, "QuantityInStock": 200}
